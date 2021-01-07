@@ -1,0 +1,10 @@
+{
+  "name": "twitterclone",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Karthick",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT"
+}
